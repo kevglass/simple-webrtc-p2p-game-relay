@@ -13,3 +13,7 @@ This server was created to support the sample at: https://github.com/kevglass/si
 There is a default implementation running at time of writing at:
 
 Secure: node4.cokeandcode.com
+
+The default implementation is running on AWS Elastic Beanstalk. Getting HTTPS configured there wasn't easy, but this guide helped alot:
+
+https://medium.com/edataconsulting/how-to-get-a-ssl-certificate-running-in-aws-elastic-beanstalk-using-certbot-6daa9baa3997
