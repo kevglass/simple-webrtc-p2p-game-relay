@@ -12,4 +12,4 @@ This server was created to support the sample at: https://github.com/kevglass/si
 
 There is a default implementation running at time of writing at:
 
-relayserver-env.eba-2kmhisfa.us-west-2.elasticbeanstalk.com
+Secure: node4.cokeandcode.com
